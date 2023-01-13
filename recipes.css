@@ -1,0 +1,165 @@
+body  {
+
+    background-color:peru;
+    font-size: 33px;
+    
+  }  
+
+  .ginback  {
+
+    background-color: rgb(180, 51, 51);
+    font-size: 33px;
+    
+  }  
+
+  div
+
+  {
+
+    color: yellow;
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    
+  } 
+
+p
+
+{
+  color: grey;
+  font-size: 25px;
+  font-family: 'Courier New', Courier, monospace;
+ 
+} 
+
+h3
+
+{
+
+  color: grey;
+  font-size: 25px;
+  font-family: 'Courier New', Courier, monospace;
+} 
+
+.recipedescp
+
+{
+
+  color: yellow;
+  font-size: 30px;
+  font-family: 'Courier New', Courier, monospace;
+} 
+
+
+
+h2
+
+{
+
+  color: yellow;
+  font-size: 30px;
+  font-family: 'Courier New', Courier, monospace;
+} 
+
+h1
+
+{
+
+  color: yellow;
+  font-size: 45px;
+  font-family: 'Courier New', Courier, monospace;
+} 
+
+ul
+
+{
+
+  color: grey;
+  font-size: 25px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+ol
+
+{
+
+  color: grey;
+  font-size: 25px;
+  font-display: 1000;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.gin.tonic
+
+{
+
+  height: auto;
+  width: 400px;
+
+
+}
+
+.gin.tonic.two
+
+{
+
+  height: auto;
+  width: 400px;
+
+
+}
+
+.ricep1
+
+{
+
+  height: auto;
+  width: 800px;
+
+
+}
+
+.ricep2
+{
+
+  height: auto;
+  width: 400px;
+
+
+}
+
+.pudding
+
+{
+
+  background-color:blue;
+  font-size: 33px;
+  
+}  
+
+.oct
+
+{
+
+  background-color:purple;
+  font-size: 33px;
+  
+}
+
+.oct1
+
+
+{
+  height: auto;
+  width: 400px;
+
+  
+}
+.oct2
+
+{
+
+  height: auto;
+  width: 400px;
+  
+}
+
